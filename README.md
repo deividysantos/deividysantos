@@ -1,5 +1,5 @@
 ## Informações Básicas
-### Me chamo Deividy, natural de Rondonópolis-MT, e estou buscando novos conhecimentos em desenvolvimento web!
+### Me chamo Deividy, natural de Rondonópolis-MT, e estou iniciando meus estudos em desenvolvimento web com ASP .NET!
 
 
 ## Informações específicas 
