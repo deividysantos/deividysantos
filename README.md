@@ -6,4 +6,4 @@
 * **Nome:** Deividy Santos
 * **Idade:** 19
 * **Mora em:** Rondonópolis-MT
-* **Faculdade:** Sistemas de Informação - UFR
+* **Faculdade:** Cursando Sistemas de Informação - UFR
