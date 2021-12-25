@@ -1,9 +1,10 @@
 ## Informações Básicas
-### Me chamo Deividy, natural de Rondonópolis-MT, e estou iniciando meus estudos em desenvolvimento web com .NET!
+### Me chamo Deividy, moro em Rondonópolis-MT.
+### Atualmente estou estudando desenvolvimento web com PHP + Laravel!
 
 
-## Informações específicas 
+## Informações pessoais 
 * **Nome:** Deividy Santos
 * **Idade:** 20
-* **Mora em:** Rondonópolis-MT
 * **Faculdade:** Cursando Sistemas de Informação - UFR
+* **Lazer:** Animes, lol e conversas aleatórias 
