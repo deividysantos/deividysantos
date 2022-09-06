@@ -5,7 +5,6 @@
 
 ## Informações pessoais 
 * **Nome:** Deividy Santos
-* **Idade:** 20
+* **Idade:** 21
 * **Faculdade:** Cursando Sistemas de Informação - UFR
 * **Trabalho:** Desenvolvedor Delphi
-* **Lazer:** Animes, lol e conversas aleatórias 
