@@ -1,6 +1,6 @@
 # 💻 Desenvolvedor de Software
 
-Sou desenvolvedor de software com experiência sólida em **Delphi** e **PL/SQL (Oracle)**, atuando há mais de 3 anos no desenvolvimento e manutenção de sistemas corporativos.  
+Sou desenvolvedor de software com experiência sólida em **Delphi** e **PL/SQL (Oracle)**, atuando há mais de 4 anos no desenvolvimento e manutenção de sistemas corporativos.  
 No último ano, expandi minha atuação para **desenvolvimento web** utilizando **React** e **Horse (Delphi)**, criando aplicações do zero e mantendo projetos existentes, todos integrados às regras de negócio do ERP da empresa.
 
 ---
@@ -17,8 +17,9 @@ No último ano, expandi minha atuação para **desenvolvimento web** utilizando 
 ## 🛠 Tecnologias e Ferramentas
 | Área | Tecnologias |
 |------|-------------|
-| **Back-end** | Delphi · PL/SQL · Horse |
-| **Front-end** | React · JavaScript · TypeScript |
+| **Linguagens** | Delphi · JavaScript · TypeScript |
+| **Frameworks** | Horse |
+| **Front-end** | React |
 | **Banco de Dados** | Oracle · SQLite |
 | **Outros** | Git · FastReport · Expo |
 
